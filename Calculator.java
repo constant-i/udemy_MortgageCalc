@@ -1,4 +1,4 @@
-package com.javalessons.task3.task;
+package com.javalessons.task3.task.udemy_MortgageCalc.git;
 
 public class Calculator {
     private static final int MONTH_IN_YEAR = 12;        // месяцев в году
