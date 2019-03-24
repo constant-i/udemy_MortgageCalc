@@ -1,4 +1,4 @@
-package com.javalessons.task3.task;
+package com.javalessons.task3.task.udemy_MortgageCalc.git;
 
 
 public class MortgageCalc {
